@@ -1,0 +1,51 @@
+[
+    {
+        "title":"Valor do Euro em 20/09/2018",
+        "euro":"EUR 1,00",
+        "real":"R$ 4,80",
+        "data": "20/09/2018"
+    },
+
+    {
+        "title":"Valor do Euro em 21/09/2018",
+        "euro":"EUR 1,00",
+        "real":"R$ 4,75",
+        "data": "21/09/2018"
+    },
+
+    {
+        "title":"Valor do Euro em 22/09/2018",
+        "euro":"EUR 1,00",
+        "real":"R$ 4,75",
+        "data": "22/09/2018"
+    },
+
+    {
+        "title":"Valor do Euro em 23/09/2018",
+        "euro":"EUR 1,00",
+        "real":"R$ 4,75",
+        "data": "23/09/2018"
+    },
+
+    {
+        "title":"Valor do Euro em 24/09/2018",
+        "euro":"EUR 1,00",
+        "real":"R$ 4,80",
+        "data": "24/09/2018"
+    },
+
+    {
+        "title":"Valor do Euro em 25/09/2018",
+        "euro":"EUR 1,00",
+        "real":"R$ 4,81",
+        "data": "25/09/2018"
+    },
+
+    {
+        "title":"Valor do Euro em 25/09/2018",
+        "euro":"EUR 1,00",
+        "real":"R$ 4,81",
+        "data": "26/09/2018"
+    }
+
+]
